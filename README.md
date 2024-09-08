@@ -16,8 +16,12 @@ No special requirements
 
 ## Project Details
 #### A. Experiment Setup
+The proposed homography precoding mapping is evaluated in a challenging typical FD-RAN scenario from the DeepMIMO. The FD-RAN scenario within the UE sampling area with its propagation attributes is illustrated in the following figure.
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/d415973cc5824f03f1984d6896193e41a295932f/Data.jpg" width="500">
+</p>
 
-The efficacy of the proposed progressive-learning-based framework is substantiated through comprehensive experimentation encompassing two UE mobility and CSI processing delay settings under two PN contamination levels. The dataset generation setup is presented in the following table.
+Details of the experimental configurations are enumerated in the following table.
 <p align="center">
   <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/d415973cc5824f03f1984d6896193e41a295932f/Data.jpg" width="500">
 </p>
