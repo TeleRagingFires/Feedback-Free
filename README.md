@@ -19,7 +19,7 @@ No special requirements
 
 The efficacy of the proposed progressive-learning-based framework is substantiated through comprehensive experimentation encompassing two UE mobility and CSI processing delay settings under two PN contamination levels. The dataset generation setup is presented in the following table.
 <p align="center">
-  <img src = "https://github.com/TeleRagingFires/Progressive/blob/8672a90f3384fa7373b9f4b89a13dd5506888e7d/Data.jpg" width="500">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/d415973cc5824f03f1984d6896193e41a295932f/Data.jpg" width="500">
 </p>
 
 ## Results and Reproduction
