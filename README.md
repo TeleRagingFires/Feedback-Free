@@ -18,7 +18,7 @@ No special requirements
 #### A. Experiment Setup
 The proposed homography precoding mapping is evaluated in a challenging typical FD-RAN scenario from the DeepMIMO. The FD-RAN scenario within the UE sampling area with its propagation attributes is illustrated in the following figure.
 <p align="center">
-  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/d415973cc5824f03f1984d6896193e41a295932f/Data.jpg" width="500">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/f0167fb652757af60bcd81380c503ca7125a2608/FD_RAN_Scenario.jpg" width="500">
 </p>
 
 Details of the experimental configurations are enumerated in the following table.
