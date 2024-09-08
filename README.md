@@ -1,10 +1,10 @@
-# A Progressive-learning-based Channel Prediction within Phase Noise of Independent Oscillators
+# Deep Homography Estimation-based Heterogeneous Decoupled Channel Precoding Mapping
 ## Overview
-This is a repository for A Progressive-learning-based Channel Prediction within Phase Noise of Independent Oscillators [Paper](https://ieeexplore.ieee.org/document/10497114) on IEEE Wireless Communications Letters. 
+This is a repository for Deep Homography Estimation-based Heterogeneous Decoupled Channel Precoding Mapping, a submitted manuscript to IEEE Wireless Communications Letters. 
 
 #### A. Abstract
-The outdated downlink channel state information (CSI) contaminated by phase noise (PN) from independent local oscillators (LOs) poses a significant challenge to practical Massive Multiple-Input Multiple-Output (MIMO) Orthogonal Frequency Division Multiplexing (OFDM) systems. In this letter, we introduce a novel progressive-learning-based downlink channel prediction scheme incorporating PN compensation as a prerequisite for rebuilding the temporal correlation for channel coefficient predictions. The proposed approach is evaluated under various user equipment (UE) mobility scenarios, PN contamination
-levels, and CSI delay settings, demonstrating superior predictive performance and link-level efficacy. These results position it as a viable solution for real-world applications.
+The fully decoupled radio access network (FD-RAN) is a potential 6G RAN architecture that is flexible and efficient. However, its decoupling feature presents significant challenges for real-time downlink (DL) channel precoding. In this work, with the insight that mapping within heterogeneous uplink (UL) and DL channels of stationary decoupled UL and DL base stations (BSs) to user equipment (UE) is similar to the homography of static stereo projections of an object, a deep homography estimation-based DL precoding mapping that inherently integrates precoding and localization for heterogenous decoupled channels is derived. The proposed approach demonstrates superiority within a typical FD-RAN scenario with two challenging heterogeneous decoupled channel setups and various training overheads.
+
 #### B. Proposed Modules
 Once the manuscript is ready for early access, more details about this work will be provided.
 
