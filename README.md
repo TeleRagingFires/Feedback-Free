@@ -28,10 +28,18 @@ Details of the experimental configurations are enumerated in the following table
 
 ## Results and Reproduction
 
-#### Evaluation Results
+### Evaluation Results
 #### A. UE Localization
-Table II summarizes the DL-BS relative UE localization performance from homogeneous UL-BS I and II.
-![alt text](https://github.com/TeleRagingFires/Progressive/blob/139c7807a5f770da2aab967a940c2844bb750d52/Result.jpg)
+The following table summarizes the DL-BS relative UE localization performance from homogeneous UL-BS I and II.
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Loc_Performance.jpg" width="400">
+</p>
+
+#### B. Downlink Precoding
+The following table summarizes the DL-BS downlink precoding performance from two homogeneous decoupled UL-BS I and II uplink channels with downlink link-level average spectrum efficiency as metrics.
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Precoding_Performance.jpg" width="400">
+</p>
 
 ## Acknowledgment
 Once the manuscript is ready for early access, more details about this work will be provided.
