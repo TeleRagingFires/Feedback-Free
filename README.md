@@ -29,9 +29,8 @@ Details of the experimental configurations are enumerated in the following table
 ## Results and Reproduction
 
 #### Evaluation Results
-The Table summarizes the overall performance with common prediction quality matrices composing the mean square error (MSE), the mean absolute error (MAE), the structure similarity (SSIM), and the cosine similarity rho.
-
-To further verify the progressive learning-based framework and its impact on the system, a singular value decomposition (SVD) baseband precoding is conducted to simulate the average spectral efficiency R in a given receiver noise power.
+#### A. UE Localization
+Table II summarizes the DL-BS relative UE localization performance from homogeneous UL-BS I and II.
 ![alt text](https://github.com/TeleRagingFires/Progressive/blob/139c7807a5f770da2aab967a940c2844bb750d52/Result.jpg)
 
 ## Acknowledgment
