@@ -1,0 +1,234 @@
+UE_sampling_Rate : 50
+Loading UE Location to the Downlink Base Station
+Loading UL-BS Channel Finger From : /home/hzl/Space_Mapping/data/UL_BS1_Channel.npy
+Loading DL-BS Channel Finger From : /home/hzl/Space_Mapping/data/DL_BS_Channel.npy
+Total number of trainable parameters: 172754
+Epoch : 1/40, Train Loss: 1.5387e+01, Training_Mapping_Loss: -2.9346e+00, Training Location Loss: 1.8322e+01
+Epoch : 1/40, Test Loss: 1.4630e+01, Channel Mapping Test: -3.3653e+00, UE Localization Test: 1.7995e+01, BestTest: 1.0000e+04
+Train Error on the Radial Distance: 53.2045, Polar Angle: 0.8925, Azimuth Angle: 0.8685
+Test Error on the Radial Distance: 52.9238, Polar Angle: 0.7260, Azimuth Angle: 0.3356
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.372241 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 2/40, Train Loss: 1.4798e+01, Training_Mapping_Loss: -3.3935e+00, Training Location Loss: 1.8191e+01
+Epoch : 2/40, Test Loss: 1.4388e+01, Channel Mapping Test: -3.5300e+00, UE Localization Test: 1.7918e+01, BestTest: 1.4630e+01
+Train Error on the Radial Distance: 53.4287, Polar Angle: 0.6810, Azimuth Angle: 0.4639
+Test Error on the Radial Distance: 52.9997, Polar Angle: 0.5351, Azimuth Angle: 0.2197
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.537637 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 3/40, Train Loss: 1.4537e+01, Training_Mapping_Loss: -3.5158e+00, Training Location Loss: 1.8053e+01
+Epoch : 3/40, Test Loss: 1.4213e+01, Channel Mapping Test: -3.6214e+00, UE Localization Test: 1.7834e+01, BestTest: 1.4388e+01
+Train Error on the Radial Distance: 53.2216, Polar Angle: 0.5575, Azimuth Angle: 0.3785
+Test Error on the Radial Distance: 52.9136, Polar Angle: 0.4045, Azimuth Angle: 0.1846
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752014 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.614547 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 4/40, Train Loss: 1.4440e+01, Training_Mapping_Loss: -3.6015e+00, Training Location Loss: 1.8042e+01
+Epoch : 4/40, Test Loss: 1.4301e+01, Channel Mapping Test: -3.5732e+00, UE Localization Test: 1.7874e+01, BestTest: 1.4213e+01
+Train Error on the Radial Distance: 53.4017, Polar Angle: 0.4399, Azimuth Angle: 0.2834
+Test Error on the Radial Distance: 52.9674, Polar Angle: 0.5072, Azimuth Angle: 0.1471
+Epoch : 5/40, Train Loss: 1.4261e+01, Training_Mapping_Loss: -3.6773e+00, Training Location Loss: 1.7939e+01
+Epoch : 5/40, Test Loss: 1.4058e+01, Channel Mapping Test: -3.7623e+00, UE Localization Test: 1.7821e+01, BestTest: 1.4213e+01
+Train Error on the Radial Distance: 53.1703, Polar Angle: 0.3881, Azimuth Angle: 0.2576
+Test Error on the Radial Distance: 52.9899, Polar Angle: 0.3365, Azimuth Angle: 0.1356
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.765261 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 6/40, Train Loss: 1.4239e+01, Training_Mapping_Loss: -3.7662e+00, Training Location Loss: 1.8005e+01
+Epoch : 6/40, Test Loss: 1.4196e+01, Channel Mapping Test: -3.6535e+00, UE Localization Test: 1.7850e+01, BestTest: 1.4058e+01
+Train Error on the Radial Distance: 53.4549, Polar Angle: 0.3482, Azimuth Angle: 0.2126
+Test Error on the Radial Distance: 53.0204, Polar Angle: 0.3790, Azimuth Angle: 0.1499
+Epoch : 7/40, Train Loss: 1.4128e+01, Training_Mapping_Loss: -3.8220e+00, Training Location Loss: 1.7950e+01
+Epoch : 7/40, Test Loss: 1.3979e+01, Channel Mapping Test: -3.7972e+00, UE Localization Test: 1.7776e+01, BestTest: 1.4058e+01
+Train Error on the Radial Distance: 53.3272, Polar Angle: 0.3435, Azimuth Angle: 0.1789
+Test Error on the Radial Distance: 52.8810, Polar Angle: 0.3473, Azimuth Angle: 0.1003
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.797452 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 8/40, Train Loss: 1.4082e+01, Training_Mapping_Loss: -3.8484e+00, Training Location Loss: 1.7930e+01
+Epoch : 8/40, Test Loss: 1.3933e+01, Channel Mapping Test: -3.8573e+00, UE Localization Test: 1.7790e+01, BestTest: 1.3979e+01
+Train Error on the Radial Distance: 53.3340, Polar Angle: 0.3144, Azimuth Angle: 0.1424
+Test Error on the Radial Distance: 53.0340, Polar Angle: 0.2633, Azimuth Angle: 0.0725
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.860484 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 9/40, Train Loss: 1.4079e+01, Training_Mapping_Loss: -3.8448e+00, Training Location Loss: 1.7923e+01
+Epoch : 9/40, Test Loss: 1.4132e+01, Channel Mapping Test: -3.6683e+00, UE Localization Test: 1.7800e+01, BestTest: 1.3933e+01
+Train Error on the Radial Distance: 53.3293, Polar Angle: 0.3234, Azimuth Angle: 0.1176
+Test Error on the Radial Distance: 52.9965, Polar Angle: 0.3307, Azimuth Angle: 0.0739
+Epoch : 10/40, Train Loss: 7.2009e+00, Training_Mapping_Loss: -3.9140e+00, Training Location Loss: 1.1115e+01
+Epoch : 10/40, Test Loss: 5.8855e-01, Channel Mapping Test: -3.8185e+00, UE Localization Test: 4.4071e+00, BestTest: 1.3933e+01
+Train Error on the Radial Distance: 32.7002, Polar Angle: 0.4192, Azimuth Angle: 0.2255
+Test Error on the Radial Distance: 11.8851, Polar Angle: 0.6180, Azimuth Angle: 0.7182
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.831280 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 11/40, Train Loss: -9.0219e-01, Training_Mapping_Loss: -3.8942e+00, Training Location Loss: 2.9920e+00
+Epoch : 11/40, Test Loss: -2.1299e-01, Channel Mapping Test: -3.7848e+00, UE Localization Test: 3.5718e+00, BestTest: 5.8855e-01
+Train Error on the Radial Distance: 8.1793, Polar Angle: 0.5147, Azimuth Angle: 0.2820
+Test Error on the Radial Distance: 10.1218, Polar Angle: 0.4354, Azimuth Angle: 0.1582
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 3.784685 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 12/40, Train Loss: -1.4763e+00, Training_Mapping_Loss: -3.9537e+00, Training Location Loss: 2.4774e+00
+Epoch : 12/40, Test Loss: 1.5083e+00, Channel Mapping Test: -4.0593e+00, UE Localization Test: 5.5676e+00, BestTest: -2.1299e-01
+Train Error on the Radial Distance: 6.7254, Polar Angle: 0.4676, Azimuth Angle: 0.2392
+Test Error on the Radial Distance: 16.2003, Polar Angle: 0.3479, Azimuth Angle: 0.1547
+Epoch : 13/40, Train Loss: -1.9973e+00, Training_Mapping_Loss: -4.0353e+00, Training Location Loss: 2.0380e+00
+Epoch : 13/40, Test Loss: -2.1664e+00, Channel Mapping Test: -4.0892e+00, UE Localization Test: 1.9228e+00, BestTest: -2.1299e-01
+Train Error on the Radial Distance: 5.5064, Polar Angle: 0.4067, Azimuth Angle: 0.2011
+Test Error on the Radial Distance: 5.2845, Polar Angle: 0.2796, Azimuth Angle: 0.2043
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752014 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.087607 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 14/40, Train Loss: -2.2170e+00, Training_Mapping_Loss: -4.0641e+00, Training Location Loss: 1.8471e+00
+Epoch : 14/40, Test Loss: -1.7564e+00, Channel Mapping Test: -3.9543e+00, UE Localization Test: 2.1980e+00, BestTest: -2.1664e+00
+Train Error on the Radial Distance: 4.9886, Polar Angle: 0.3457, Azimuth Angle: 0.2070
+Test Error on the Radial Distance: 5.9723, Polar Angle: 0.4795, Azimuth Angle: 0.1421
+Epoch : 15/40, Train Loss: -2.4268e+00, Training_Mapping_Loss: -4.1220e+00, Training Location Loss: 1.6951e+00
+Epoch : 15/40, Test Loss: -2.4301e+00, Channel Mapping Test: -4.1101e+00, UE Localization Test: 1.6800e+00, BestTest: -2.1664e+00
+Train Error on the Radial Distance: 4.6065, Polar Angle: 0.3237, Azimuth Angle: 0.1552
+Test Error on the Radial Distance: 4.4992, Polar Angle: 0.3422, Azimuth Angle: 0.1984
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.104366 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 16/40, Train Loss: -2.3010e+00, Training_Mapping_Loss: -4.1156e+00, Training Location Loss: 1.8146e+00
+Epoch : 16/40, Test Loss: -1.6780e+00, Channel Mapping Test: -4.0037e+00, UE Localization Test: 2.3258e+00, BestTest: -2.4301e+00
+Train Error on the Radial Distance: 4.9580, Polar Angle: 0.3260, Azimuth Angle: 0.1598
+Test Error on the Radial Distance: 6.5765, Polar Angle: 0.2489, Azimuth Angle: 0.1519
+Epoch : 17/40, Train Loss: -2.5236e+00, Training_Mapping_Loss: -4.1489e+00, Training Location Loss: 1.6253e+00
+Epoch : 17/40, Test Loss: -2.6638e+00, Channel Mapping Test: -4.1554e+00, UE Localization Test: 1.4916e+00, BestTest: -2.4301e+00
+Train Error on the Radial Distance: 4.4791, Polar Angle: 0.2660, Azimuth Angle: 0.1309
+Test Error on the Radial Distance: 4.1136, Polar Angle: 0.2201, Azimuth Angle: 0.1412
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.159528 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 18/40, Train Loss: -2.7066e+00, Training_Mapping_Loss: -4.1709e+00, Training Location Loss: 1.4643e+00
+Epoch : 18/40, Test Loss: -2.5993e+00, Channel Mapping Test: -4.1693e+00, UE Localization Test: 1.5700e+00, BestTest: -2.6638e+00
+Train Error on the Radial Distance: 3.9870, Polar Angle: 0.2551, Azimuth Angle: 0.1508
+Test Error on the Radial Distance: 4.3326, Polar Angle: 0.2359, Azimuth Angle: 0.1417
+Epoch : 19/40, Train Loss: -2.6850e+00, Training_Mapping_Loss: -4.1769e+00, Training Location Loss: 1.4919e+00
+Epoch : 19/40, Test Loss: -1.1350e+00, Channel Mapping Test: -3.9825e+00, UE Localization Test: 2.8475e+00, BestTest: -2.6638e+00
+Train Error on the Radial Distance: 4.0618, Polar Angle: 0.2814, Azimuth Angle: 0.1324
+Test Error on the Radial Distance: 8.1704, Polar Angle: 0.2618, Azimuth Angle: 0.1104
+Epoch : 20/40, Train Loss: -2.8084e+00, Training_Mapping_Loss: -4.2063e+00, Training Location Loss: 1.3979e+00
+Epoch : 20/40, Test Loss: -2.8188e+00, Channel Mapping Test: -4.2422e+00, UE Localization Test: 1.4234e+00, BestTest: -2.6638e+00
+Train Error on the Radial Distance: 3.8171, Polar Angle: 0.2539, Azimuth Angle: 0.1227
+Test Error on the Radial Distance: 3.9195, Polar Angle: 0.2368, Azimuth Angle: 0.1138
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.244384 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 21/40, Train Loss: -2.9292e+00, Training_Mapping_Loss: -4.2426e+00, Training Location Loss: 1.3135e+00
+Epoch : 21/40, Test Loss: -1.9516e+00, Channel Mapping Test: -4.2045e+00, UE Localization Test: 2.2528e+00, BestTest: -2.8188e+00
+Train Error on the Radial Distance: 3.5759, Polar Angle: 0.2329, Azimuth Angle: 0.1316
+Test Error on the Radial Distance: 6.4181, Polar Angle: 0.2557, Azimuth Angle: 0.0847
+Epoch : 22/40, Train Loss: -2.9571e+00, Training_Mapping_Loss: -4.2914e+00, Training Location Loss: 1.3343e+00
+Epoch : 22/40, Test Loss: -2.8103e+00, Channel Mapping Test: -4.2554e+00, UE Localization Test: 1.4451e+00, BestTest: -2.8188e+00
+Train Error on the Radial Distance: 3.6735, Polar Angle: 0.2211, Azimuth Angle: 0.1083
+Test Error on the Radial Distance: 4.0536, Polar Angle: 0.2040, Azimuth Angle: 0.0777
+Epoch : 23/40, Train Loss: -2.9776e+00, Training_Mapping_Loss: -4.2756e+00, Training Location Loss: 1.2980e+00
+Epoch : 23/40, Test Loss: -2.6782e+00, Channel Mapping Test: -4.1640e+00, UE Localization Test: 1.4858e+00, BestTest: -2.8188e+00
+Train Error on the Radial Distance: 3.5615, Polar Angle: 0.2174, Azimuth Angle: 0.1151
+Test Error on the Radial Distance: 4.0712, Polar Angle: 0.3023, Azimuth Angle: 0.0840
+Epoch : 24/40, Train Loss: -3.0213e+00, Training_Mapping_Loss: -4.3117e+00, Training Location Loss: 1.2903e+00
+Epoch : 24/40, Test Loss: -2.8860e+00, Channel Mapping Test: -4.2295e+00, UE Localization Test: 1.3435e+00, BestTest: -2.8188e+00
+Train Error on the Radial Distance: 3.4789, Polar Angle: 0.2602, Azimuth Angle: 0.1319
+Test Error on the Radial Distance: 3.7098, Polar Angle: 0.1990, Azimuth Angle: 0.1216
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.229995 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Adjusted lr:6.6874e-04
+Epoch : 25/40, Train Loss: -3.1062e+00, Training_Mapping_Loss: -4.3480e+00, Training Location Loss: 1.2418e+00
+Epoch : 25/40, Test Loss: -3.2278e+00, Channel Mapping Test: -4.3547e+00, UE Localization Test: 1.1269e+00, BestTest: -2.8860e+00
+Train Error on the Radial Distance: 3.4023, Polar Angle: 0.2191, Azimuth Angle: 0.1041
+Test Error on the Radial Distance: 3.0706, Polar Angle: 0.1824, Azimuth Angle: 0.1278
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.356647 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 26/40, Train Loss: -3.2540e+00, Training_Mapping_Loss: -4.4136e+00, Training Location Loss: 1.1596e+00
+Epoch : 26/40, Test Loss: -2.9607e+00, Channel Mapping Test: -4.3541e+00, UE Localization Test: 1.3934e+00, BestTest: -3.2278e+00
+Train Error on the Radial Distance: 3.1660, Polar Angle: 0.2109, Azimuth Angle: 0.1018
+Test Error on the Radial Distance: 3.7398, Polar Angle: 0.2783, Azimuth Angle: 0.1620
+Epoch : 27/40, Train Loss: -3.2762e+00, Training_Mapping_Loss: -4.4220e+00, Training Location Loss: 1.1457e+00
+Epoch : 27/40, Test Loss: -2.9263e+00, Channel Mapping Test: -4.3050e+00, UE Localization Test: 1.3787e+00, BestTest: -3.2278e+00
+Train Error on the Radial Distance: 3.1109, Polar Angle: 0.2165, Azimuth Angle: 0.1098
+Test Error on the Radial Distance: 3.8763, Polar Angle: 0.1847, Azimuth Angle: 0.0750
+Epoch : 28/40, Train Loss: -3.3340e+00, Training_Mapping_Loss: -4.4369e+00, Training Location Loss: 1.1029e+00
+Epoch : 28/40, Test Loss: -3.1831e+00, Channel Mapping Test: -4.3581e+00, UE Localization Test: 1.1750e+00, BestTest: -3.2278e+00
+Train Error on the Radial Distance: 3.0209, Polar Angle: 0.1950, Azimuth Angle: 0.0927
+Test Error on the Radial Distance: 3.2495, Polar Angle: 0.2006, Azimuth Angle: 0.0748
+Epoch : 29/40, Train Loss: -3.3513e+00, Training_Mapping_Loss: -4.4572e+00, Training Location Loss: 1.1059e+00
+Epoch : 29/40, Test Loss: -3.2656e+00, Channel Mapping Test: -4.3633e+00, UE Localization Test: 1.0977e+00, BestTest: -3.2278e+00
+Train Error on the Radial Distance: 3.0192, Polar Angle: 0.1959, Azimuth Angle: 0.1025
+Test Error on the Radial Distance: 3.0194, Polar Angle: 0.1988, Azimuth Angle: 0.0750
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.364953 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 30/40, Train Loss: -3.3710e+00, Training_Mapping_Loss: -4.4679e+00, Training Location Loss: 1.0969e+00
+Epoch : 30/40, Test Loss: -3.3244e+00, Channel Mapping Test: -4.4119e+00, UE Localization Test: 1.0875e+00, BestTest: -3.2656e+00
+Train Error on the Radial Distance: 2.9964, Polar Angle: 0.2020, Azimuth Angle: 0.0922
+Test Error on the Radial Distance: 3.0227, Polar Angle: 0.1572, Azimuth Angle: 0.0827
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752013 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.403884 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 31/40, Train Loss: -3.3911e+00, Training_Mapping_Loss: -4.4749e+00, Training Location Loss: 1.0838e+00
+Epoch : 31/40, Test Loss: -3.2785e+00, Channel Mapping Test: -4.3896e+00, UE Localization Test: 1.1111e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 2.9504, Polar Angle: 0.2081, Azimuth Angle: 0.0929
+Test Error on the Radial Distance: 3.0228, Polar Angle: 0.1798, Azimuth Angle: 0.1306
+Epoch : 32/40, Train Loss: -3.4700e+00, Training_Mapping_Loss: -4.5174e+00, Training Location Loss: 1.0474e+00
+Epoch : 32/40, Test Loss: -3.1898e+00, Channel Mapping Test: -4.3928e+00, UE Localization Test: 1.2030e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 2.8396, Polar Angle: 0.1993, Azimuth Angle: 0.1033
+Test Error on the Radial Distance: 3.2720, Polar Angle: 0.1885, Azimuth Angle: 0.1486
+Epoch : 33/40, Train Loss: -3.4344e+00, Training_Mapping_Loss: -4.5105e+00, Training Location Loss: 1.0761e+00
+Epoch : 33/40, Test Loss: -3.2911e+00, Channel Mapping Test: -4.4053e+00, UE Localization Test: 1.1142e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 2.9324, Polar Angle: 0.1981, Azimuth Angle: 0.0978
+Test Error on the Radial Distance: 3.1018, Polar Angle: 0.1745, Azimuth Angle: 0.0664
+Epoch : 34/40, Train Loss: -3.5261e+00, Training_Mapping_Loss: -4.5424e+00, Training Location Loss: 1.0164e+00
+Epoch : 34/40, Test Loss: -3.2758e+00, Channel Mapping Test: -4.3890e+00, UE Localization Test: 1.1131e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 2.7751, Polar Angle: 0.1891, Azimuth Angle: 0.0849
+Test Error on the Radial Distance: 3.0692, Polar Angle: 0.1805, Azimuth Angle: 0.0897
+Epoch : 35/40, Train Loss: -3.5143e+00, Training_Mapping_Loss: -4.5665e+00, Training Location Loss: 1.0522e+00
+Epoch : 35/40, Test Loss: -2.9162e+00, Channel Mapping Test: -4.4173e+00, UE Localization Test: 1.5012e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 2.8534, Polar Angle: 0.2095, Azimuth Angle: 0.0936
+Test Error on the Radial Distance: 4.2002, Polar Angle: 0.1980, Azimuth Angle: 0.1052
+Epoch : 36/40, Train Loss: -3.4497e+00, Training_Mapping_Loss: -4.5498e+00, Training Location Loss: 1.1001e+00
+Epoch : 36/40, Test Loss: -2.6371e+00, Channel Mapping Test: -4.3978e+00, UE Localization Test: 1.7607e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 3.0180, Polar Angle: 0.1947, Azimuth Angle: 0.0876
+Test Error on the Radial Distance: 5.0275, Polar Angle: 0.1942, Azimuth Angle: 0.0603
+Epoch : 37/40, Train Loss: -3.5457e+00, Training_Mapping_Loss: -4.5678e+00, Training Location Loss: 1.0221e+00
+Epoch : 37/40, Test Loss: -3.2030e+00, Channel Mapping Test: -4.4134e+00, UE Localization Test: 1.2104e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 2.7951, Polar Angle: 0.1895, Azimuth Angle: 0.0818
+Test Error on the Radial Distance: 3.3162, Polar Angle: 0.2144, Azimuth Angle: 0.1005
+Epoch : 38/40, Train Loss: -3.5569e+00, Training_Mapping_Loss: -4.5785e+00, Training Location Loss: 1.0216e+00
+Epoch : 38/40, Test Loss: -3.4241e+00, Channel Mapping Test: -4.4244e+00, UE Localization Test: 1.0003e+00, BestTest: -3.3244e+00
+Train Error on the Radial Distance: 2.7665, Polar Angle: 0.2002, Azimuth Angle: 0.0980
+Test Error on the Radial Distance: 2.7597, Polar Angle: 0.1753, Azimuth Angle: 0.0660
+Model saved!
+The Average Spectrum Efficiency of Ideal DL Channel is 5.752014 bps/Hz
+The Average Spectrum Efficiency of Mapping DL Channel is 4.428325 bps/Hz
+The Average Spectrum Efficiency of Lower-bound DL Channel is 1.799754 bps/Hz
+Epoch : 39/40, Train Loss: -3.5865e+00, Training_Mapping_Loss: -4.5849e+00, Training Location Loss: 9.9840e-01
+Epoch : 39/40, Test Loss: -3.2278e+00, Channel Mapping Test: -4.4496e+00, UE Localization Test: 1.2217e+00, BestTest: -3.4241e+00
+Train Error on the Radial Distance: 2.7222, Polar Angle: 0.1829, Azimuth Angle: 0.0901
+Test Error on the Radial Distance: 3.4032, Polar Angle: 0.1988, Azimuth Angle: 0.0632
+Epoch : 40/40, Train Loss: -3.5974e+00, Training_Mapping_Loss: -4.5886e+00, Training Location Loss: 9.9115e-01
+Epoch : 40/40, Test Loss: -3.3775e+00, Channel Mapping Test: -4.4380e+00, UE Localization Test: 1.0604e+00, BestTest: -3.4241e+00
+Train Error on the Radial Distance: 2.7198, Polar Angle: 0.1786, Azimuth Angle: 0.0750
+Test Error on the Radial Distance: 2.8945, Polar Angle: 0.2286, Azimuth Angle: 0.0582
