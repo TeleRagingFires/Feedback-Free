@@ -41,5 +41,20 @@ The following table summarizes the DL-BS downlink precoding performance from two
   <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Precoding_Performance.jpg" width="400">
 </p>
 
+## Supplementary Results
+
+### Real-valued Transformer V.S. Complex-valued Transformer
+#### A. UE Localization
+The following table summarizes the DL-BS relative UE localization performance from homogeneous UL-BS I and II.
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Loc_Performance.jpg" width="400">
+</p>
+
+#### B. Downlink Precoding
+The following table summarizes the DL-BS downlink precoding performance from two homogeneous decoupled UL-BS I and II uplink channels with downlink link-level average spectrum efficiency as metrics.
+<p align="center">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Precoding_Performance.jpg" width="400">
+</p>
+
 ## Acknowledgment
 Once the manuscript is ready for early access, more details about this work will be provided.
