@@ -32,28 +32,28 @@ Details of the experimental configurations are enumerated in the following table
 #### A. UE Localization
 The following table summarizes the DL-BS relative UE localization performance from homogeneous UL-BS I and II.
 <p align="center">
-  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Loc_Performance.jpg" width="400">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/6d52ffae7713bc48e1a409f5dee04090290ef51e/Result1.jpg" width="400">
 </p>
 
 #### B. Downlink Precoding
 The following table summarizes the DL-BS downlink precoding performance from two homogeneous decoupled UL-BS I and II uplink channels with downlink link-level average spectrum efficiency as metrics.
 <p align="center">
-  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Precoding_Performance.jpg" width="400">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/6d52ffae7713bc48e1a409f5dee04090290ef51e/Result2.jpg" width="400">
 </p>
 
 ## Supplementary Results
 
 ### Real-valued Transformer V.S. Complex-valued Transformer
 #### A. UE Localization
-The following table summarizes the DL-BS relative UE localization performance from homogeneous UL-BS I and II.
+The following table summarizes the comparison of Real-valued and Complex-valued Transformer Based Homography Estimators on UE Localization.
 <p align="center">
-  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Loc_Performance.jpg" width="400">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/6d52ffae7713bc48e1a409f5dee04090290ef51e/Real-Valued%20Transformer%20Result_Page_1.jpg" width="400">
 </p>
 
 #### B. Downlink Precoding
-The following table summarizes the DL-BS downlink precoding performance from two homogeneous decoupled UL-BS I and II uplink channels with downlink link-level average spectrum efficiency as metrics.
+The following table summarizes the comparison of Real-valued and Complex-valued Transformer Based Homography Estimator on DL Precoding.
 <p align="center">
-  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/a4c0de246487dd415da716f216db4a3f113115ae/Precoding_Performance.jpg" width="400">
+  <img src = "https://github.com/TeleRagingFires/Feedback-Free/blob/6d52ffae7713bc48e1a409f5dee04090290ef51e/Real-Valued%20Transformer%20Result_Page_2.jpg" width="400">
 </p>
 
 ## Acknowledgment
